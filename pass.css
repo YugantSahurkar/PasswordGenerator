@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(3296133.png);
+}
+
+#container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(10, 10, 10);
+  color: green;
+}
+
+h1 {
+  background-color: black;
+  color: green;
+  text-align: center;
+}
+
+#pass {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  color: green;
+  padding: 20px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  background-color: green;
+  box-shadow: 1px 2px 1px black;
+  color: #fff;
+
+  border-radius: 5px;
+  cursor: pointer;
+}
